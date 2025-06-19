@@ -1,5 +1,10 @@
 # SpotifyTopKSongs
 
+## Architecture Diagram
+![spotifyArchitectureDiagram](https://github.com/user-attachments/assets/eeca6f19-2a5c-4595-a884-d3add4f47578)
+
+![spotifytopk](https://github.com/user-attachments/assets/971cddd0-d660-446f-ab20-f5702d411eb5)
+
 
 ## 🔧 Running the Application
 
